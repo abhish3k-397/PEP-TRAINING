@@ -19,5 +19,3 @@ print("USD to INR:", calculator.converter.usd_to_inr(10))
 print("Celsius to Fahrenheit:", calculator.converter.celsius_to_fahrenheit(10))
 print("Fahrenheit to Celsius:", calculator.converter.fahrenheit_to_celsius(10))
 
-def area_square(side):
-    return side * side 
